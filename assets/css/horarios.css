@@ -1,0 +1,33 @@
+.cuerpo{
+    color: white;
+    background-color: blue;
+    text-align: center;
+}
+
+.header{
+    color: white;
+}
+
+.horarios{
+    height: 100%;
+    padding: 20px 0px 100px 0px;
+    background-image: url(../img/pizzarrita.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: sans-serif;
+    color: white;
+
+
+}
+
+.fater{
+    background-color: blue;
+    color: white;
+
+}
+
+.boton a{
+    color:black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+

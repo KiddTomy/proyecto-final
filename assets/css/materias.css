@@ -1,0 +1,49 @@
+.header{
+    color: white;
+    text-align: center;
+}
+
+
+.materias{
+    color: black;
+    height: 100%;
+    padding: 0px 0px 100px 0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20px 0px 200px 0px;
+    background-image: url(../img/materias.jpg);
+    text-align: center;
+}
+
+
+.boton a{
+    color:black;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.cuerpo{
+    background-color: blue;
+
+}
+
+.footer{
+    color: yellowgreen;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    
+
+}
+
+
+.logo{
+    grid-column: 3/7;
+    width: 50%;
+    height: 118%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 0px 0px 100px 0px;
+}
+
+

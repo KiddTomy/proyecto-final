@@ -1,0 +1,36 @@
+.container{
+    background-color: blue;
+}
+
+.header{
+    color: white;
+    background-color: blue;
+    text-align: justify;
+}
+
+.body{
+    color: blue;
+}
+
+.fechas{
+    color: white;
+    text-align: center;
+    font-family: monospace;
+    background-image: url(../img/retrooo.jpg);
+    padding: 20px 0px 150px 0px;
+}
+
+.footer{
+    background-color: blue;
+    text-align: right;
+    color: lightblue;
+}
+
+.boton a{
+    font-family: inherit;
+    color: white;
+}
+
+.video{
+    align-items: center;
+}
